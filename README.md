@@ -11,7 +11,6 @@
 
 <h2 align="left">📱&nbsp;Connect with Me</h3>
 <p align="left">
-  <a href="https://x.com/altegarofficial" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="altegarofficial" height="40" width="40"/></a>
   <a href="https://linkedin.com/in/ihor-sushynskyi-2765a824b" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="ihor-sushynskyi-2765a824b" height="40" width="40"/></a>
   <a href="https://stackoverflow.com/users/19906046/altegar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="altegar" height="40" width="40"/></a>
   <a href="https://facebook.com/100026808647207" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="100026808647207" height="40" width="40"/></a>
