@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Python and it's tools**
 
+- 💡 I’m deeply interested in **Rust and it's ecosystem**
+
 - 📫 How to reach me **altegarofficial@gmail.com**
 
 <h2 align="left">📱&nbsp;Connect with Me</h3>
