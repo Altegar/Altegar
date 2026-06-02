@@ -5,8 +5,6 @@
   <a href="https://x.com/altegarofficial" target="blank"><img src="https://img.shields.io/twitter/follow/altegarofficial?logo=x&style=for-the-badge" alt="altegarofficial"/></a>
 </p>
 
-- 🌱 I’m currently learning **Python and it's tools**
-
 - 💡 I’m deeply interested in **Rust and it's ecosystem**
 
 - 📫 How to reach me **altegarofficial@gmail.com**
